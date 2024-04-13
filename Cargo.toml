@@ -24,3 +24,4 @@ sqlx = { version = "~0.7", default-features = false, features = [
     "chrono",
     "migrate"
 ]}
+config = "~0.14"
